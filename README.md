@@ -5,7 +5,8 @@
 **Programming Language:** C   
 **Input Format:** JSON   
 **Output Format:** S-expressions   
-**Author:** Atal Gupta
+**Name:** Atal Gupta
+
 **Date:** August 9, 2025
 
 ## Challenge Overview
